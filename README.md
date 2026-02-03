@@ -12,7 +12,7 @@ Key Focus: Exploring relationships between life expectancy and several factors, 
 
 The notebook contains:
 
-Data Loading: Downloads and loads the dataset (UnifiedDataset.csv) from KaggleHub 🔽.
+Data Loading: Downloads and loads the dataset from KaggleHub 🔽.
 
 Initial Data Exploration: A quick look at the data, including the first few rows and general statistics 🧐.
 
@@ -29,3 +29,12 @@ Data Preprocessing: Loading, cleaning, and inspecting data for potential issues 
 Visualization: Preliminary visualizations to explore key trends.
 
 Statistical Analysis: Testing hypotheses on relationships between quality of life indicators.
+
+📍 Dataset Source
+
+The dataset used for this project is sourced from Kaggle:
+Global Health, Nutrition, Mortality, and Economic Data
+
+This dataset includes various factors such as life expectancy, income, education, healthcare access, and more, across different countries and years, offering rich insights into the factors that influence quality of life.
+
+Feel free to contribute, suggest improvements, or fork this repository if you're interested in working on it!
